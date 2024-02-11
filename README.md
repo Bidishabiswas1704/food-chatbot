@@ -1,7 +1,7 @@
 # 🍽️ Taste of India - Food Ordering Website
 
 ## 🚀 Project Overview
-Welcome to the Taste of India, where every bite tells a story! This project aims to create an immersive food ordering website for a restaurant named "Taste of India". The website showcases a variety of delicious Indian dishes along with their prices and offers a convenient way for customers to place orders. Additionally, a chatbot feature is integrated to enhance the ordering experience.
+Welcome to the Taste of India, where every bite tells a story! This project aims to create an immersive food ordering website for a restaurant named **Taste of India**. The website showcases a variety of delicious Indian dishes along with their prices and offers a convenient way for customers to place orders. Additionally, a chatbot feature is integrated to enhance the ordering experience.
 
 ## 🔍 Problem Statement
 Finding authentic and delicious Indian food can be a challenge, especially for those who are new to Indian cuisine. In today's fast-paced world, customers seek convenient and interactive ways to explore menus, place orders, and receive assistance. To address this need, **MunchMate Foodbot**, an innovative chatbot solution, takes center stage as the main project. Developed with the aim of revolutionizing the food ordering experience, MunchMate Foodbot serves as a personalized virtual assistant, guiding customers through the menu, recommending dishes, and facilitating seamless order placement.
