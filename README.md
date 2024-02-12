@@ -36,6 +36,47 @@ Welcome to the Taste of India, where every bite tells a story! This project aims
 - 🤖**Chatbot:** Dialogflow 
 - 🚀**Deployment:** Localhost server (for development) 
 
+Absolutely! Adding icons can enhance the visual appeal of your README file. Here's the revised layout with icons included:
+
+## Frontend Website Screenshots
+
+### 1. Home Page
+- 🏠 Screenshot showcasing the home page layout with the restaurant name, hook line, and welcome message.
+
+### 2. Menu Section
+- 🍽️ Screenshot displaying the menu section with images of food items, their names, and prices.
+
+### 3. Contact Section
+- 📞 Screenshot demonstrating the contact section with details on how users can reach out to the restaurant.
+
+### 4. About Section
+- ℹ️ Screenshot illustrating the about section highlighting the mission and vision of the restaurant.
+
+### 5. Food Chatbot
+- 💬 Screenshot exhibiting the presence and placement of the food chatbot on the website.
+
+## Backend Food Chatbot Screenshots
+
+### 1. Welcome Message
+- 🎉 Screenshot of the welcome message displayed when users interact with the food chatbot.
+
+### 2. Placing New Orders
+- 🛒 Screenshot demonstrating the process of placing new orders through the chatbot.
+
+### 3. Removing Orders
+- 🗑️ Screenshot showcasing how users can remove items from their orders using the chatbot.
+
+### 4. Order Completion and Payment
+- 💳 Screenshot indicating the completion of an order, including the generation of a tracking ID and calculation of the total price for payment.
+
+### 5. Order Tracking
+- 📦 Screenshot displaying the functionality for users to check the status of their orders using the tracking ID.
+
+### 6. Post-Order Interaction
+- 🎈 Screenshot presenting the post-order interaction where users are encouraged to visit again.
+
+### 7. Default Message Intent
+- ❓ Screenshot illustrating the default message intent, guiding users to explore the menu of the restaurant if their query falls out of intent.
 
 
 ## 📄 Usage Instructions
