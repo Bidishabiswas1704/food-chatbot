@@ -107,19 +107,47 @@ Welcome to the Taste of India, where every bite tells a story! This project aims
 The chatbot is programmed to provide varied text responses based on different contexts, ensuring an interactive user experience throughout interactions.
 
 ## 📄 Usage Instructions
-1. Clone the repository:
+
+1. **Clone the Repository:**
    ```
-   git clone <repository-url>
+   git clone <https://github.com/Bidishabiswas1704/food-chatbot>
    ```
 
-2. Navigate to the project directory:
+2. **Navigate to the Project Directory:**
    ```
-   cd <project-directory>
+   cd <C:\Users\bidisha\PycharmProjects\pythonProject\foodchatbot>
    ```
 
-3. Open the HTML file (`index.html`) in a web browser to view the website locally.
+3. **Viewing the Website Locally:**
+   - Open the HTML file (index.html) in a web browser to view the website locally.
+   - Explore different sections of the website, including the home page, menu, contact, and about sections.
 
-4. To interact with the chatbot, ensure that the FastAPI server is running locally and properly configured to handle webhook requests from Dialogflow.
+4. **Interacting with the Chatbot:**
+   - Ensure that the FastAPI server is running locally.
+   - Make sure the server is properly configured to handle webhook requests from Dialogflow.
+   - Access the chatbot feature on the website.
+   - Engage with the chatbot to explore menu items, place orders, inquire about dishes, receive recommendations, and interact with various functionalities.
+   
+5. **Managing Chatbot Responses:**
+   - Experiment with different types of user inputs to see how the chatbot responds.
+   - Observe how the chatbot provides tailored responses based on user queries, preferences, and context.
+   
+6. **Order Placement and Management:**
+   - Follow the prompts provided by the chatbot to place food orders.
+   - Explore order management features such as adding items to the cart, removing items, checking order status, and completing transactions.
+   
+7. **Exploring Additional Features:**
+   - Investigate any additional functionalities or features incorporated into the chatbot, such as order tracking, payment processing, or personalized recommendations.
+
+8. **Feedback and Improvement:**
+   - Provide feedback on the user experience, functionality, and effectiveness of the chatbot.
+   - Consider ways to enhance the chatbot's performance, responsiveness, and user engagement based on your interactions.
+
+9. **Contribution and Collaboration:**
+   - If interested, contribute to the repository by suggesting improvements, reporting bugs, or submitting pull requests to enhance the food chatbot project.
+   - Collaborate with the project team or community members to further develop and refine the chatbot's capabilities.
+
+This comprehensive guide will help users navigate and interact with the food chatbot project effectively, ensuring an engaging and interactive experience.
 
 ## 🤝 Contribution
 Contributions to the project are welcome! Feel free to open issues, suggest new features, or submit pull requests to enhance the Taste of India website and improve the overall user experience.
