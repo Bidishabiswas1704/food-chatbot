@@ -62,6 +62,8 @@ Welcome to the Taste of India, where every bite tells a story! This project aims
 ### 5. Food Chatbot
 - 💬 Screenshot exhibiting the presence and placement of the food chatbot on the website.
 
+![image](https://github.com/Bidishabiswas1704/food-chatbot/assets/140384850/e7701475-be97-4e07-a9a6-5d55161ecdbf)
+
 ## Backend Food Chatbot Screenshots
 
 ### 1. Welcome Message
