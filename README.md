@@ -30,6 +30,7 @@ Welcome to the Taste of India, where every bite tells a story! This project aims
 
 ## 🛠️ Technologies Used
 
+- **Frontend:** HTML, CSS 🎨
 - **Backend:** FastAPI (for webhook integration with chatbot) ⚙️
 - **Database Management:** MySQL 🗃️
 - **Chatbot:** Dialogflow 🤖
