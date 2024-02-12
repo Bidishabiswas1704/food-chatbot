@@ -42,6 +42,8 @@ Welcome to the Taste of India, where every bite tells a story! This project aims
 ### 1. Home Page
 - 🏠 Screenshot showcasing the home page layout with the restaurant name, hook line, and welcome message.
 
+![image](https://github.com/Bidishabiswas1704/food-chatbot/assets/140384850/d7bc9280-30b6-42a3-a82b-35579bf6f8d4)
+
 ### 2. Menu Section
 - 🍽️ Screenshot displaying the menu section with images of food items, their names, and prices.
 
