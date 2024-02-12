@@ -47,11 +47,17 @@ Welcome to the Taste of India, where every bite tells a story! This project aims
 ### 2. Menu Section
 - 🍽️ Screenshot displaying the menu section with images of food items, their names, and prices.
 
+![image](https://github.com/Bidishabiswas1704/food-chatbot/assets/140384850/35124429-d326-480d-9ed5-392c1ffdce8c)
+
 ### 3. Contact Section
 - 📞 Screenshot demonstrating the contact section with details on how users can reach out to the restaurant.
 
+![image](https://github.com/Bidishabiswas1704/food-chatbot/assets/140384850/f1f4d332-5309-441f-a485-217156f3a67e)
+
 ### 4. About Section
 - ℹ️ Screenshot illustrating the about section highlighting the mission and vision of the restaurant.
+
+![image](https://github.com/Bidishabiswas1704/food-chatbot/assets/140384850/a13caf95-aafc-4f4a-b942-f58881c99052)
 
 ### 5. Food Chatbot
 - 💬 Screenshot exhibiting the presence and placement of the food chatbot on the website.
