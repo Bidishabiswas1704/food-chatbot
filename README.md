@@ -69,24 +69,42 @@ Welcome to the Taste of India, where every bite tells a story! This project aims
 ### 1. Welcome Message
 - 🎉 Screenshot of the welcome message displayed when users interact with the food chatbot.
 
+![image](https://github.com/Bidishabiswas1704/food-chatbot/assets/140384850/b3315cbb-2ba3-4c2b-bc89-c0d0286959a1)
+
 ### 2. Placing New Orders
 - 🛒 Screenshot demonstrating the process of placing new orders through the chatbot.
+
+![image](https://github.com/Bidishabiswas1704/food-chatbot/assets/140384850/8d094311-10f9-4541-8a4a-813f6fe683ae)
+
+![image](https://github.com/Bidishabiswas1704/food-chatbot/assets/140384850/ba7b15c3-6b77-44f4-8197-5a07b8450236)
+
 
 ### 3. Removing Orders
 - 🗑️ Screenshot showcasing how users can remove items from their orders using the chatbot.
 
+![image](https://github.com/Bidishabiswas1704/food-chatbot/assets/140384850/fa19e95c-da39-4605-a929-9cbe5c9e21f8)
+
 ### 4. Order Completion and Payment
 - 💳 Screenshot indicating the completion of an order, including the generation of a tracking ID and calculation of the total price for payment.
+
+![image](https://github.com/Bidishabiswas1704/food-chatbot/assets/140384850/c099a8b3-3249-4c42-b264-cca7e1567c86)
 
 ### 5. Order Tracking
 - 📦 Screenshot displaying the functionality for users to check the status of their orders using the tracking ID.
 
+![image](https://github.com/Bidishabiswas1704/food-chatbot/assets/140384850/7a1cb815-c096-4df6-87e6-3b76b11722e8)
+
 ### 6. Post-Order Interaction
 - 🎈 Screenshot presenting the post-order interaction where users are encouraged to visit again.
+
+![image](https://github.com/Bidishabiswas1704/food-chatbot/assets/140384850/6b7da956-f8b1-460e-8196-46b84b3cb17b)
 
 ### 7. Default Message Intent
 - ❓ Screenshot illustrating the default message intent, guiding users to explore the menu of the restaurant if their query falls out of intent.
 
+![image](https://github.com/Bidishabiswas1704/food-chatbot/assets/140384850/68a787da-5213-49f8-ac57-f462ae15e3e6)
+
+The chatbot is programmed to provide varied text responses based on different contexts, ensuring an interactive user experience throughout interactions.
 
 ## 📄 Usage Instructions
 1. Clone the repository:
