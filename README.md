@@ -36,7 +36,6 @@ Welcome to the Taste of India, where every bite tells a story! This project aims
 - 🤖**Chatbot:** Dialogflow 
 - 🚀**Deployment:** Localhost server (for development) 
 
-Absolutely! Adding icons can enhance the visual appeal of your README file. Here's the revised layout with icons included:
 
 ## Frontend Website Screenshots
 
