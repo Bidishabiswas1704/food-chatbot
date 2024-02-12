@@ -18,15 +18,15 @@ Welcome to the Taste of India, where every bite tells a story! This project aims
 
 
 ## 🎯 Features and Functionalities
-1. **Menu Display:** The website showcases a variety of Indian dishes, including Pav Bhaji, Chole Bhature, Pizza, Mango Lassi, Masala Dosa, Vegetable Biryani, Vada Pav, Rava Dosa, and Samosa, along with their respective prices.
+1. 🍽️ **Menu Display:** The website showcases a variety of Indian dishes, including Pav Bhaji, Chole Bhature, Pizza, Mango Lassi, Masala Dosa, Vegetable Biryani, Vada Pav, Rava Dosa, and Samosa, along with their respective prices.
 
-2. **Ordering System:** Customers can select their desired food items and quantities, and then proceed to place their orders directly through the website.
+2. 🛒**Ordering System:** Customers can select their desired food items and quantities, and then proceed to place their orders directly through the website.
 
-3. **Chatbot Integration:** A chatbot feature is included to provide assistance and facilitate orders. Customers can interact with the chatbot to add items to their orders, inquire about menu items, and receive recommendations.
+3. 🤖**Chatbot Integration:** A chatbot feature is included to provide assistance and facilitate orders. Customers can interact with the chatbot to add items to their orders, inquire about menu items, and receive recommendations.
 
-4. **Location and Contact Information:** The website provides the restaurant's location in Karol Bagh, Delhi, along with contact details, including address, phone number, and email.
+4. 📍📞✉️**Location and Contact Information:** The website provides the restaurant's location in Karol Bagh, Delhi, along with contact details, including address, phone number, and email.
 
-5. **Eye-catching Design:** The website features bold colors, attractive imagery, and user-friendly layout to engage customers and create an enjoyable browsing experience.
+5. 🎨**Eye-catching Design:** The website features bold colors, attractive imagery, and user-friendly layout to engage customers and create an enjoyable browsing experience.
 
 ## 🛠️ Technologies Used
 
