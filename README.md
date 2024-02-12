@@ -4,11 +4,17 @@
 Welcome to the Taste of India, where every bite tells a story! This project aims to create an immersive food ordering website for a restaurant named **Taste of India**. The website showcases a variety of delicious Indian dishes along with their prices and offers a convenient way for customers to place orders. Additionally, a chatbot feature is integrated to enhance the ordering experience.
 
 ## 🔍 Problem Statement
-Finding authentic and delicious Indian food can be a challenge, especially for those who are new to Indian cuisine. In today's fast-paced world, customers seek convenient and interactive ways to explore menus, place orders, and receive assistance. To address this need, **MunchMate Foodbot**, an innovative chatbot solution, takes center stage as the main project. Developed with the aim of revolutionizing the food ordering experience, MunchMate Foodbot serves as a personalized virtual assistant, guiding customers through the menu, recommending dishes, and facilitating seamless order placement.
 
-The chatbot is designed to engage users in natural language conversations, understand their preferences, and provide tailored recommendations based on individual tastes and dietary requirements. Powered by advanced natural language processing (NLP) techniques and integrated with backend systems, MunchMate Foodbot ensures efficient communication and accurate order processing.
-
-While the frontend website complements the chatbot by offering a visually appealing interface for browsing the menu and placing orders, the primary focus remains on MunchMate Foodbot's ability to enhance customer engagement and streamline the food ordering process. Through intuitive interactions and personalized assistance, MunchMate Foodbot aims to redefine the way customers interact with restaurants, making the dining experience more enjoyable and convenient than ever before.
+- Finding authentic and delicious Indian food can be a challenge, especially for those who are new to Indian cuisine.
+- In today's fast-paced world, customers seek convenient and interactive ways to explore menus, place orders, and receive assistance.
+- To address this need, **MunchMate Foodbot** emerges as the main project, offering an innovative chatbot solution.
+- Developed with the aim of revolutionizing the food ordering experience, MunchMate Foodbot serves as a personalized virtual assistant.
+- It guides customers through the menu, recommends dishes, and facilitates seamless order placement.
+- The chatbot engages users in natural language conversations, understanding their preferences and providing tailored recommendations.
+- Powered by advanced natural language processing (NLP) techniques and integrated with backend systems, MunchMate Foodbot ensures efficient communication and accurate order processing.
+- While the frontend website complements the chatbot with a visually appealing interface for browsing menus and placing orders,
+- The primary focus remains on MunchMate Foodbot's ability to enhance customer engagement and streamline the food ordering process.
+- Through intuitive interactions and personalized assistance, MunchMate Foodbot aims to redefine the way customers interact with restaurants, making the dining experience more enjoyable and convenient than ever before.
 
 
 ## 🎯 Features and Functionalities
@@ -23,10 +29,13 @@ While the frontend website complements the chatbot by offering a visually appeal
 5. **Eye-catching Design:** The website features bold colors, attractive imagery, and user-friendly layout to engage customers and create an enjoyable browsing experience.
 
 ## 🛠️ Technologies Used
-- **Frontend:** HTML, CSS
-- **Backend:** FastAPI (for webhook integration with chatbot)
-- **Chatbot:** Dialogflow
-- **Deployment:** Localhost server (for development)
+
+- **Backend:** FastAPI (for webhook integration with chatbot) ⚙️
+- **Database Management:** MySQL 🗃️
+- **Chatbot:** Dialogflow 🤖
+- **Deployment:** Localhost server (for development) 🚀
+
+
 
 ## 📄 Usage Instructions
 1. Clone the repository:
