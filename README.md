@@ -147,7 +147,6 @@ The chatbot is programmed to provide varied text responses based on different co
    - If interested, contribute to the repository by suggesting improvements, reporting bugs, or submitting pull requests to enhance the food chatbot project.
    - Collaborate with the project team or community members to further develop and refine the chatbot's capabilities.
 
-This comprehensive guide will help users navigate and interact with the food chatbot project effectively, ensuring an engaging and interactive experience.
 
 ## 🤝 Contribution
 Contributions to the project are welcome! Feel free to open issues, suggest new features, or submit pull requests to enhance the Taste of India website and improve the overall user experience.
