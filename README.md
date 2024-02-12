@@ -127,6 +127,6 @@ Contributions to the project are welcome! Feel free to open issues, suggest new 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Enjoy exploring the diverse flavors of India with Taste of India! 🍛🇮🇳
+Enjoy exploring the diverse flavors of India with Taste of India! 🍛
 
-**Note:** The link provided (`http://localhost:63342/pythonProject/index.html?_ijt=ogihrfolc5n0c1ftd9p5i3vh6p`) is a local development server URL. Ensure the website is deployed to a live server for public access.
+
