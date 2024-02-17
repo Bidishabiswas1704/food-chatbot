@@ -71,6 +71,8 @@ def complete_order(parameters: dict, session_id: str):
     return JSONResponse(content={
         "fulfillmentText": fulfillment_text
     })
+
+
 def add_to_order(parameters: dict, session_id: str):
     food_items = parameters["food-items"]
     quantities = parameters["number"]
